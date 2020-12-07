@@ -29,8 +29,8 @@ $ cd fbinfo
 ```
 $ pip install -r requirements.txt
 after error
-pip install --upgrade pip
-pip2 install -r requirements.txt
+$ pip install --upgrade pip
+$ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
